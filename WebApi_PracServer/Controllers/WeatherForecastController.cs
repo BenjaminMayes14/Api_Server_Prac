@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using WebApi_PracServer.models;
 
 namespace WebApi_PracServer.Controllers
 {

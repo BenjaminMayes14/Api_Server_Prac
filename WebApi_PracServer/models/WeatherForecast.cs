@@ -1,4 +1,4 @@
-namespace WebApi_PracServer
+namespace WebApi_PracServer.models
 {
     public class WeatherForecast
     {
